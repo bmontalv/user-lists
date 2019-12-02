@@ -1,0 +1,15 @@
+{
+  "name": "users-api",
+  "version": "1.0.0",
+  "description": "endpoint for favourite users",
+  "main": "usersApi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Belen Montalvo",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
